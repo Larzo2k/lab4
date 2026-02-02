@@ -1,0 +1,2 @@
+# Ignorar vulnerabilidad de Spring Web que solo se arregla en la versión 6
+CVE-2016-1000027
